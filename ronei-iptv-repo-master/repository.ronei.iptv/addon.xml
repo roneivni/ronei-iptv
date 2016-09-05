@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.ronei.iptv" name="Ronei IPTV Repository" version="0.0.2" provider-name="Ronei de Sousa">
+	<extension point="xbmc.addon.repository" name="Ronei IPTV Repository">
+		<info compressed="false">http://raw.github.com/roneivni/ronei-iptv/master/addons.xml</info>
+		<checksum>http://raw.github.com/roneivni/ronei-iptv/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/roneivni/ronei-iptv/master/repo/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Ronei IPTV Addon</summary>
+		<description>Addon Ronei IPTV Brasil</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>
